@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="959c1c56-266e-4c78-8af5-d35427eb52d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOz8cLelj0xckP3oaMRuoEvezJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="luv2code.student" />
+      <recent name="luv2code.employee" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/luv2code" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/luv2code/employee" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/luv2code/student" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CurrentApp" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="h-tutorial-gradle.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="luv2code.GetInstructorDetailDemoKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="h-tutorial-gradle.main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959c1c56-266e-4c78-8af5-d35427eb52d0" name="Default Changelist" comment="" />
+      <created>1580931770671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580931770671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1297" y="377" key="#CurrentApp" timestamp="1581087608510">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1297" y="377" key="#CurrentApp/0.23.2560.1417@0.23.2560.1417" timestamp="1581087608510" />
+    <state x="1216" y="401" key="#Project_Structure" timestamp="1580931832172">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1216" y="401" key="#Project_Structure/0.23.2560.1417@0.23.2560.1417" timestamp="1580931832172" />
+    <state x="609" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581105203995">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="609" y="295" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581105203995" />
+    <state x="1081" y="398" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1581002265205" />
+    <state x="1050" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1581101977841">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1050" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1581101977841" />
+    <state x="889" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581105202248">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="889" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581105202248" />
+    <state x="1354" y="527" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1581002262139" />
+    <state x="1246" y="395" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1581002176752">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1246" y="395" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1581002176752" />
+    <state width="762" height="405" key="GridCell.Tab.0.bottom" timestamp="1581341220469">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.bottom/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581022995752" />
+    <state width="762" height="405" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581341220469" />
+    <state width="1212" height="405" key="GridCell.Tab.0.bottom/0.23.2560.1417@0.23.2560.1417" timestamp="1581088199794" />
+    <state width="762" height="405" key="GridCell.Tab.0.center" timestamp="1581341220469">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.center/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581022995750" />
+    <state width="762" height="405" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581341220469" />
+    <state width="1212" height="405" key="GridCell.Tab.0.center/0.23.2560.1417@0.23.2560.1417" timestamp="1581088199793" />
+    <state width="762" height="405" key="GridCell.Tab.0.left" timestamp="1581341220469">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.left/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581022995750" />
+    <state width="762" height="405" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581341220469" />
+    <state width="1212" height="405" key="GridCell.Tab.0.left/0.23.2560.1417@0.23.2560.1417" timestamp="1581088199793" />
+    <state width="762" height="405" key="GridCell.Tab.0.right" timestamp="1581341220469">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="405" key="GridCell.Tab.0.right/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581022995751" />
+    <state width="762" height="405" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581341220469" />
+    <state width="1212" height="405" key="GridCell.Tab.0.right/0.23.2560.1417@0.23.2560.1417" timestamp="1581088199793" />
+    <state width="958" height="345" key="GridCell.Tab.1.bottom" timestamp="1581104720484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581020725881" />
+    <state width="958" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1581104720484" />
+    <state width="958" height="345" key="GridCell.Tab.1.center" timestamp="1581104720484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.center/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581020725879" />
+    <state width="958" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1581104720484" />
+    <state width="958" height="345" key="GridCell.Tab.1.left" timestamp="1581104720484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.left/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581020725879" />
+    <state width="958" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1581104720484" />
+    <state width="958" height="345" key="GridCell.Tab.1.right" timestamp="1581104720484">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="363" key="GridCell.Tab.1.right/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581020725880" />
+    <state width="958" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1581104720484" />
+    <state x="1104" y="317" key="SettingsEditor" timestamp="1580931927027">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1104" y="317" key="SettingsEditor/0.23.2560.1417@0.23.2560.1417" timestamp="1580931927027" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1581111957189">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="500" height="409" key="SwitcherDM/0.0.1680.1050/-716.-1417.3440.1417@0.0.1680.1050" timestamp="1581021026486" />
+    <state width="500" height="409" key="SwitcherDM/0.0.1680.1050/-716.-1440.3440.1440@0.0.1680.1050" timestamp="1581022976726" />
+    <state width="500" height="400" key="SwitcherDM/0.23.1680.1027@0.23.1680.1027" timestamp="1581105483799" />
+    <state width="500" height="445" key="SwitcherDM/0.23.2560.1417@0.23.2560.1417" timestamp="1581111957189" />
+    <state x="943" y="418" key="com.intellij.ide.util.TipDialog" timestamp="1581100539995">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="943" y="418" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581100539995" />
+    <state x="1437" y="568" key="com.intellij.ide.util.TipDialog/0.23.2560.1417@0.23.2560.1417" timestamp="1580934850415" />
+    <state x="468" y="150" key="new project wizard" timestamp="1581341199656">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="468" y="150" key="new project wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1581341199656" />
+  </component>
+</project>
